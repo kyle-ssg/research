@@ -9,7 +9,7 @@ vendor SDK API's in order to help define the OpenFeature spec.
 | -------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
 | boolean                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
 | string                     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| numeric                    |                    |                    | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
+| numeric                    |                    | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: |
 | JSON                       | :heavy_check_mark: |                    |                    | :heavy_check_mark: |                    | :heavy_check_mark: |
 
 ### Boolean
